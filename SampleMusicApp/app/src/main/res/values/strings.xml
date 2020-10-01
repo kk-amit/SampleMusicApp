@@ -1,0 +1,16 @@
+<resources>
+    <string name="str_app_name">SampleMusicApp</string>
+    <string name="str_splash_activity">Splash Screen</string>
+
+    <string name="str_on_create">onCreate</string>
+    <string name="str_on_restart">onRestart</string>
+    <string name="str_on_start">onStart</string>
+    <string name="str_on_resume">onResume</string>
+    <string name="str_on_pause">onPause</string>
+    <string name="str_on_stop">onStop</string>
+    <string name="str_on_destroy">onDestroy</string>
+
+    <string name="str_music">Music</string>
+    <string name="str_getMusicDataList">getMusicDataList</string>
+    <string name="str_getMusicDataList_error">getMusicDataList Error</string>
+</resources>
